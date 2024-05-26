@@ -8,11 +8,11 @@
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "images": 0.6,
+      "images": 0.5299999713897705,
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.25999999046325684
+      "zones": 0.6600000262260437
     },
     "selection_filter": {
       "dimensions": true,
