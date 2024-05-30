@@ -3861,16 +3861,16 @@
 		(uuid "3a060025-0600-47f8-b0a6-fffdd7271f12")
 	)
 	(junction
-		(at 121.92 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43ea9215-2235-4e6f-8566-0c86a2cd77a6")
-	)
-	(junction
 		(at 53.34 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49d056cb-1550-4411-a714-e573b2b889bf")
+	)
+	(junction
+		(at 121.92 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b2329d8-060b-4103-8cf5-e0840b34a7ed")
 	)
 	(junction
 		(at 36.83 170.18)
@@ -3913,6 +3913,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80e74909-6564-494d-bd3a-9bccaae172fd")
+	)
+	(junction
+		(at 105.41 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "932f7488-02a2-4672-8a5d-13684d0aad69")
 	)
 	(junction
 		(at 167.64 22.86)
@@ -3985,12 +3991,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc64d02d-9d16-4c9e-ab83-d778081a3aed")
-	)
-	(junction
-		(at 105.41 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fa5ea00b-6e9b-45c8-9c5e-2323963410c5")
 	)
 	(junction
 		(at 39.37 162.56)
@@ -4532,16 +4532,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 80.01) (xy 109.22 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4758b83a-d849-41d9-a780-3eb448a51c5d")
-	)
-	(wire
-		(pts
 			(xy 132.08 165.1) (xy 134.62 165.1)
 		)
 		(stroke
@@ -4812,16 +4802,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 80.01) (xy 121.92 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7811e538-c312-4570-b2e6-ef76beb5cf1a")
-	)
-	(wire
-		(pts
 			(xy 121.92 80.01) (xy 121.92 83.82)
 		)
 		(stroke
@@ -4869,6 +4849,16 @@
 			(type default)
 		)
 		(uuid "83037558-39d8-42a9-828c-8dc2e91d54b3")
+	)
+	(wire
+		(pts
+			(xy 105.41 80.01) (xy 109.22 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85ea13c9-2419-4d18-a7ef-de107195f787")
 	)
 	(wire
 		(pts
@@ -5369,6 +5359,16 @@
 			(type default)
 		)
 		(uuid "ddc4061b-a7dc-4565-b56e-e73323e762f2")
+	)
+	(wire
+		(pts
+			(xy 116.84 80.01) (xy 121.92 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfc311df-c57a-42bb-8e6d-4a1680d7a124")
 	)
 	(wire
 		(pts
@@ -9113,7 +9113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Taiyo-Yuden_NR-24xx"
 			(at 113.03 80.01 0)
 			(effects
 				(font
