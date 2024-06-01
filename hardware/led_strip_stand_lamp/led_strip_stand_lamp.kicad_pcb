@@ -8423,6 +8423,8 @@
 			)
 		)
 		(path "/4046fea8-1122-4ec0-bba6-910c4a1277c3/98a4491f-6a28-4700-9412-559530ed2f63")
+		(sheetname "Sheet 2")
+		(sheetfile "untitled.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.735)
@@ -17673,7 +17675,7 @@
 		(descr "Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-24xx, 2.4mmx2.4mm")
 		(tags "inductor taiyo-yuden nr smd")
 		(property "Reference" "L1"
-			(at -2.5 0 360)
+			(at -2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "80433830-29d2-44f9-86f1-d94cfd60d1d4")
 			(effects
@@ -17684,7 +17686,7 @@
 			)
 		)
 		(property "Value" "2u2"
-			(at 0 2.7 360)
+			(at 0 2.7 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb699100-63f7-4b7c-a917-f500a846e923")
@@ -17877,7 +17879,7 @@
 			(uuid "88e02425-22e0-4809-a124-e4f581819655")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "d9238065-b596-4bad-a231-bf2816253be8")
 			(effects
@@ -18954,7 +18956,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 2.518199 -0.018471 270)
+			(at 2.518199 -0.018471 -90)
 			(layer "F.SilkS")
 			(uuid "47ae2280-c455-4cbb-aa90-a156bd9cec01")
 			(effects
@@ -18965,7 +18967,7 @@
 			)
 		)
 		(property "Value" "56k"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "98353b38-5b3f-4e68-86c2-c8df161b865c")
@@ -19118,7 +19120,7 @@
 			(uuid "cc65561b-9671-432d-89e9-fa73903ad96d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "5f0451f9-502e-4842-adee-3862ed854c3a")
 			(effects
@@ -21072,6 +21074,7 @@
 		)
 	)
 	(footprint "lib-footprint:github-logo"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "d51ae973-7a11-4710-b8f8-ce6043ec09bc")
 		(at -2 -2.5)

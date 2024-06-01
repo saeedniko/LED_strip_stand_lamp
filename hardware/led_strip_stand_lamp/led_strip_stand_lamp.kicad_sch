@@ -6187,7 +6187,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "270R"
 			(at 148.59 166.3699 0)
 			(effects
 				(font
@@ -6256,8 +6256,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
-			(at 45.72 86.36 0)
+		(property "Value" "10u/25V"
+			(at 48.006 91.948 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6574,7 +6574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 259.08 26.67 0)
 			(effects
 				(font
@@ -7264,7 +7264,7 @@
 				)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "270R"
 			(at 128.27 175.26 90)
 			(effects
 				(font
@@ -7595,70 +7595,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 176.53 154.94 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "39464029-3d07-4003-a395-98daf7514eeb")
-		(property "Reference" "H3"
-			(at 179.07 153.6699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 179.07 156.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 176.53 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 176.53 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "led_strip_stand_lamp"
-				(path "/da8f1e94-ebd4-4cfa-b01b-a11f5ce52696"
-					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 167.64 20.32 0)
 		(unit 1)
@@ -7677,7 +7613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 167.64 15.24 0)
 			(effects
 				(font
@@ -8636,8 +8572,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
-			(at 81.534 97.028 0)
+		(property "Value" "10n/50V"
+			(at 82.804 104.648 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8838,7 +8774,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22u/10V"
 			(at 124.714 88.138 0)
 			(effects
 				(font
@@ -8950,70 +8886,6 @@
 			(project "led_strip_stand_lamp"
 				(path "/da8f1e94-ebd4-4cfa-b01b-a11f5ce52696"
 					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 176.53 142.24 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7ae7311f-b251-486b-a1ee-15cd0885d31e")
-		(property "Reference" "H1"
-			(at 179.07 140.9699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 179.07 143.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 176.53 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 176.53 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "led_strip_stand_lamp"
-				(path "/da8f1e94-ebd4-4cfa-b01b-a11f5ce52696"
-					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -9239,8 +9111,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33pF"
-			(at 152.654 90.678 0)
+		(property "Value" "33p/50V"
+			(at 154.178 98.806 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9248,7 +9120,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 150.8252 93.98 0)
 			(effects
 				(font
@@ -10479,7 +10351,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n/50V"
 			(at 108.204 71.628 0)
 			(effects
 				(font
@@ -10488,7 +10360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 106.3752 74.93 0)
 			(effects
 				(font
@@ -11020,7 +10892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 133.35 26.67 0)
 			(effects
 				(font
@@ -11392,7 +11264,7 @@
 				)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "270R"
 			(at 128.27 167.64 90)
 			(effects
 				(font
@@ -11460,8 +11332,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
-			(at 54.864 86.36 0)
+		(property "Value" "10u/25V"
+			(at 57.15 91.948 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11650,7 +11522,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 176.53 148.59 0)
+		(at 176.53 153.67 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -11659,7 +11531,7 @@
 		(fields_autoplaced yes)
 		(uuid "cf6d23eb-e491-49f6-ae23-290073e8678b")
 		(property "Reference" "H2"
-			(at 179.07 147.3199 0)
+			(at 179.07 152.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11668,7 +11540,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 179.07 149.8599 0)
+			(at 179.07 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11677,7 +11549,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 176.53 148.59 0)
+			(at 176.53 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11686,7 +11558,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 148.59 0)
+			(at 176.53 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11695,7 +11567,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 176.53 148.59 0)
+			(at 176.53 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11979,8 +11851,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
-			(at 63.5 86.36 0)
+		(property "Value" "100n/50V"
+			(at 65.786 93.218 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11988,7 +11860,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 63.1952 87.63 0)
 			(effects
 				(font
