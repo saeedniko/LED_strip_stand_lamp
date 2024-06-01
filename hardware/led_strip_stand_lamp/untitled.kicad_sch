@@ -4968,7 +4968,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u/50V"
+		(property "Value" "10u/25V"
 			(at 138.43 69.8499 0)
 			(effects
 				(font
@@ -4977,7 +4977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 135.5852 72.39 0)
 			(effects
 				(font
