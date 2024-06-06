@@ -85,10 +85,10 @@
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
@@ -114,9 +114,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "C:/Users/sn17849/Git/LED_strip_stand_lamp/hardware/")
 		)
 	)
 	(net 0 "")
@@ -312,7 +312,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -537,6 +537,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66c2fb3d-58df-4cbe-910c-b8cb9025a50b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/59f2576c-95df-45c9-821e-5503f4c9f80c")
 		(sheetname "Root")
@@ -688,7 +701,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -908,6 +921,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2032d74-2d8d-4bdc-a02e-ceb4a304fed8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1910,6 +1936,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c06ec9f6-d987-43ed-854e-e5e4653102a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e344109d-24f6-435b-a928-6311e384aef6")
 		(sheetname "Root")
@@ -2117,6 +2156,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93412820-97ec-424c-b032-403ad91eb268")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2370,7 +2422,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2632,7 +2684,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2856,6 +2908,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0fac1d2-371e-4656-b381-3d29922c7815")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b9f3665f-ec25-4339-8354-8b3f5cbc7815")
 		(sheetname "Root")
@@ -3067,7 +3132,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3325,6 +3390,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67048278-9376-4938-82d5-ace853d7403f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0783c813-07a3-4eb2-a999-42fcb4fd8586")
 		(sheetname "Root")
@@ -3576,7 +3654,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4067,6 +4145,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd2cea19-1d09-4479-a12f-a0f7f0451554")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/24ff879f-df5d-44f3-89e4-fddaabf276d5")
 		(sheetname "Root")
@@ -4274,6 +4365,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0e19f0c-51cc-4f5e-bcbf-37aa0713792e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "710-150060VS75000"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d203c65-7791-4680-80ba-8a6558cab0b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4562,7 +4679,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4824,7 +4941,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4991,7 +5108,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5266,7 +5383,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5741,7 +5858,7 @@
 				)
 			)
 		)
-		(property "ID" "mmustermann"
+		(property "ID" "s.nikoubin"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7878,7 +7995,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8101,6 +8218,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "097e7f36-5de8-4b20-9b66-aede213d9ded")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a6783895-1013-4c14-82d4-695edc8ec6ff")
 		(sheetname "Root")
@@ -8308,6 +8438,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "afc564ac-3fcb-4163-8f72-ae235e471b51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8574,7 +8717,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9024,6 +9167,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a178c5a7-9072-4845-9a7c-920bbe9ba1a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bffc3ccd-a32c-47bc-89f9-8b0569538302")
 		(sheetname "Root")
@@ -9274,7 +9430,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9511,6 +9667,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21621bb4-e731-4477-b8bf-af1fa0c43fd0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/e5f1b861-71e9-4d91-b2bd-10ff46cf9853")
 		(sheetname "Root")
@@ -9727,6 +9896,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "13a2edaa-3ad0-4c25-a20c-3a344731d183")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ca60c10-6490-4db7-a02d-b104c82f1891")
 			(effects
 				(font
 					(size 1 1)
@@ -10032,7 +10214,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10295,7 +10477,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10558,7 +10740,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10834,7 +11016,7 @@
 				)
 			)
 		)
-		(property "ID" "mmustermann"
+		(property "ID" "s.nikoubin"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11149,7 +11331,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11316,7 +11498,7 @@
 				)
 			)
 		)
-		(property "ID" "mmustermann"
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11675,6 +11857,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cff91457-06ac-43a1-b209-043ff01e475b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?563*")
 		(path "/59b71ff3-c786-4d18-bd32-7b30f327f19d")
 		(sheetname "Root")
@@ -11989,7 +12184,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12213,7 +12408,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12476,7 +12671,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12739,7 +12934,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12963,6 +13158,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f3b49d2-fd9d-4fb1-aa28-72fa55d43b1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c1f00bdf-4e13-48be-9760-d00d53cfd1de")
 		(sheetname "Root")
@@ -13170,6 +13378,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc9dc2f3-86d5-4eaf-985c-9bc178597530")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13423,7 +13644,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13588,7 +13809,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13811,6 +14032,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5841908c-77e5-488f-9e0a-589f28726c71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c9ea2316-2b82-48f8-95cb-a4fcbbfd137d")
 		(sheetname "Root")
@@ -14021,6 +14255,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81c7b846-2c06-4330-9248-7e7e2e583fa7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6dcd2b37-129e-432b-ac34-06649a95246b")
 		(sheetname "Root")
@@ -14184,7 +14431,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10K"
 			(at 0 1.43 -90)
 			(layer "F.Fab")
 			(uuid "842f5fbe-e12d-4e18-bafd-6e3e38265db9")
@@ -14228,6 +14475,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3abb0d2d-8c26-41f4-aed5-0d7d14b462c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14442,6 +14702,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5051fcd-ae5a-46d0-bd78-05fa235dad94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1eb91993-a29f-40fb-8143-cce271ba118c")
 		(sheetname "Root")
@@ -14649,6 +14922,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71654f5d-1239-4224-b04e-f25c45823603")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14903,7 +15189,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15057,7 +15343,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15281,6 +15567,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "11e8f4a2-1def-4c77-a7b6-a39a5a319f98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2492f9b0-1c4e-4497-85c3-6f60b1f830dc")
 		(sheetname "Root")
@@ -15491,7 +15790,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15754,7 +16053,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15919,7 +16218,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16140,6 +16439,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "175ba089-c824-4549-9ef3-6cd8259b9348")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "241-SS0840WSR100001"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d0b64ab-e94d-4617-b93d-911ce46ba775")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16414,6 +16739,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "131901d8-f7ef-47b3-9ef5-59a0d645aedb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/711e7713-6b21-4788-9a63-edacc845cd7c")
 		(sheetname "Root")
@@ -16625,6 +16963,32 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "311eaef0-593e-4fd9-9d54-4e36efa1f1d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" " 81-GRM31CR71A226K15L"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89a60888-d9aa-44b2-a7e0-34a08298ed03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9ba4bec7-c192-4e76-8195-e8a12df4c002")
 		(sheetname "Root")
@@ -16832,6 +17196,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e831b97f-f10c-491e-95ad-78e42447badf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17046,6 +17423,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd165c57-0e61-41ed-ae5f-0967895c46c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8269d07a-d85a-405e-91ec-8115d70ed409")
 		(sheetname "Root")
@@ -17257,6 +17647,32 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc64028b-9a0e-4c71-80c3-6d110aede1dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" " 81-GRM31CR71A226K15L"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01d12d35-04ce-4c36-babb-0a1bff2d45ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7654a695-bfa5-421e-903c-ef723977222d")
 		(sheetname "Root")
@@ -17465,6 +17881,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "991430b5-9bd0-4db1-bcef-f98fe9bad8e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17718,7 +18147,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17877,7 +18306,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/396/wound04_e-1290968.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17898,6 +18327,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b472d75-d225-484b-aff4-a2be80553b60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "963-NRH2410T2R2MN"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e588620-1b57-4e65-9d05-24a3c03379a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18157,6 +18612,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "95371f40-ef35-47c4-8e72-4bf71e3cfd78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "288f9ecc-7023-46dd-9322-ae74964e06f5")
 			(effects
 				(font
 					(size 1 1)
@@ -18462,7 +18930,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18683,6 +19151,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42132386-364c-44fe-99ec-7fb53581041e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "710-150060VS75000"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "485f4f9d-5ee7-4deb-936d-e810a8a9aadb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18958,7 +19452,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19179,6 +19673,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f7a8362-0a65-45f6-91d0-5ba8baddb0ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19432,7 +19939,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19654,7 +20161,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19875,6 +20382,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a6ed092-3726-4c53-80f5-cf034b0da9bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "241-SS0840WSR100001"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "77683246-c911-4078-9ccc-d1725c9dcfed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20150,6 +20683,32 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b06f2382-0a5f-4f7c-9eae-394e89e4f8f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "859-LTST-C190KFKT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a91c411-d272-44f8-8815-962ea5da0112")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/855ea6a2-c9b3-43d4-91bf-ecf71c20580c")
 		(sheetname "Root")
@@ -20422,7 +20981,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20685,7 +21244,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21028,7 +21587,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24113,7 +24672,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24336,7 +24895,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24595,6 +25154,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1235120-66b0-446e-a952-712775e95ce3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/32c89f94-2aed-48e9-ad14-6b249164f71d")
 		(sheetname "Root")
@@ -24802,6 +25374,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2997bbe2-3ca3-4aa7-ac23-67145bdd9be8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -25016,12 +25601,25 @@
 				)
 			)
 		)
-		(property "MPN" " 81-GRM31CR71A226K15L "
+		(property "MPN" " 81-GRM31CR71A226K15L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d36f8815-831b-417c-88fc-e0148c8998f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c72d65b-13c8-4f2a-ab63-e58376b0ae1c")
 			(effects
 				(font
 					(size 1 1)
@@ -25239,6 +25837,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f39248f-2c1b-4d51-9e4b-b041c394fa6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b52288f6-81c0-4638-a2c4-43fdbffd0b09")
 		(sheetname "Root")
@@ -25402,7 +26013,7 @@
 				)
 			)
 		)
-		(property "Value" "CP2102N-Axx-xQFN24"
+		(property "Value" "CP2102N-A02-GQFN24"
 			(at 17.352855 6.781653 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25447,6 +26058,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "279a3510-429d-4ad2-b7d6-5be1ac05104e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "634-CP2102NA02GQFN24"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "287f7812-52c9-4ba4-8b43-f84179d7f055")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -25956,7 +26593,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10K"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "9fdbd1ab-85cf-409f-93e0-f4f78fa91441")
@@ -26000,6 +26637,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e70ca8c-5899-40f0-afce-8573dffab21c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26214,6 +26864,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0208b66b-ab67-4cbe-9afb-a810425e0c1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6be99460-b666-4d87-9640-d28302d31b44")
 		(sheetname "Root")
@@ -26424,7 +27087,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26722,7 +27385,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26946,7 +27609,7 @@
 				)
 			)
 		)
-		(property "MPN" " 81-GRM31CR71A226K15L "
+		(property "MPN" " 81-GRM31CR71A226K15L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26998,7 +27661,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27221,7 +27884,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27442,6 +28105,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "237305aa-cf0a-4c7d-87bb-e98395a74876")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "710-82400102"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b64ef434-0743-4749-8084-7b44ee1a96b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27773,7 +28462,7 @@
 				)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27998,6 +28687,19 @@
 				)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b788993c-cf6f-40d9-b305-4c140d211845")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/cf6d23eb-e491-49f6-ae23-290073e8678b")
 		(sheetname "Root")
@@ -28115,6 +28817,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb2b4bcf-f377-4f58-a2c2-d48f4ea873a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af6ffefb-d356-49d2-a6e9-9a6ce73f583f")
 			(effects
 				(font
 					(size 1 1)
@@ -35260,32 +35975,33 @@
 				(xy -10.7745 9.254269) (xy -10.7745 8.74573) (xy -10.777353 8.7153) (xy -10.777353 8.715298) (xy -10.822206 8.587119)
 				(xy -10.822207 8.587117) (xy -10.90285 8.47785) (xy -10.999134 8.406789) (xy -11.041385 8.351141)
 				(xy -11.0495 8.307019) (xy -11.0495 7.9245) (xy -11.029815 7.857461) (xy -10.977011 7.811706) (xy -10.9255 7.8005)
-				(xy -10.559309 7.8005) (xy -10.059309 7.8005) (xy -9.909309 7.8005) (xy -8.237965 7.8005) (xy -8.170926 7.820185)
-				(xy -8.150284 7.836819) (xy -7.649284 8.337819) (xy -7.615799 8.399142) (xy -7.620783 8.468834)
-				(xy -7.662655 8.524767) (xy -7.728119 8.549184) (xy -7.736965 8.5495) (xy -9.154677 8.5495) (xy -9.227735 8.564032)
-				(xy -9.227739 8.564033) (xy -9.22774 8.564034) (xy -9.310601 8.619399) (xy -9.33933 8.662396) (xy -9.365966 8.70226)
-				(xy -9.365967 8.702264) (xy -9.366618 8.705534) (xy -9.37 8.712001) (xy -9.37064 8.713544) (xy -9.370778 8.713486)
-				(xy -9.399003 8.767445) (xy -9.459718 8.802019) (xy -9.529488 8.79828) (xy -9.56372 8.77972) (xy -9.582031 8.765669)
-				(xy -9.715943 8.710202) (xy -9.715947 8.710201) (xy -9.859655 8.691281) (xy -9.859657 8.691281)
-				(xy -9.93151 8.700741) (xy -10.003365 8.710201) (xy -10.003366 8.710201) (xy -10.003368 8.710202)
-				(xy -10.137278 8.765668) (xy -10.13728 8.765669) (xy -10.137281 8.76567) (xy -10.252277 8.85391)
-				(xy -10.340517 8.968906) (xy -10.340517 8.968907) (xy -10.340518 8.968908) (xy -10.353734 9.000816)
-				(xy -10.395986 9.102822) (xy -10.414906 9.246531) (xy -10.395986 9.39024) (xy -10.340517 9.524156)
-				(xy -10.252277 9.639152) (xy -10.137281 9.727392) (xy -10.003365 9.782861) (xy -9.874633 9.799809)
-				(xy -9.859657 9.801781) (xy -9.859656 9.801781) (xy -9.859655 9.801781) (xy -9.842936 9.799579)
-				(xy -9.715947 9.782861) (xy -9.582031 9.727392) (xy -9.564918 9.714261) (xy -9.499748 9.689067)
-				(xy -9.431304 9.703106) (xy -9.381314 9.75192) (xy -9.367814 9.788446) (xy -9.365966 9.79774) (xy -9.353692 9.816109)
-				(xy -9.332814 9.882786) (xy -9.351298 9.950166) (xy -9.35368 9.953873) (xy -9.365966 9.97226) (xy -9.365966 9.972261)
-				(xy -9.365967 9.972264) (xy -9.380499 10.045321) (xy -9.3805 10.045323) (xy -9.3805 10.045326) (xy -9.3805 10.994674)
-				(xy -9.365966 11.06774) (xy -9.353692 11.086109) (xy -9.332814 11.152786) (xy -9.351298 11.220166)
-				(xy -9.35368 11.223873) (xy -9.365966 11.24226) (xy -9.365966 11.242261) (xy -9.365967 11.242264)
-				(xy -9.380499 11.315321) (xy -9.3805 11.315323) (xy -9.3805 11.315326) (xy -9.3805 12.264674) (xy -9.365966 12.33774)
-				(xy -9.353692 12.356109) (xy -9.332814 12.422786) (xy -9.351298 12.490166) (xy -9.35368 12.493873)
-				(xy -9.365966 12.51226) (xy -9.365966 12.512261) (xy -9.365967 12.512264) (xy -9.380499 12.585321)
-				(xy -9.3805 12.585323) (xy -9.3805 12.585326) (xy -9.3805 13.534674) (xy -9.365966 13.60774) (xy -9.353692 13.626109)
-				(xy -9.332814 13.692786) (xy -9.351298 13.760166) (xy -9.35368 13.763873) (xy -9.365966 13.78226)
-				(xy -9.365966 13.782261) (xy -9.365967 13.782264) (xy -9.380499 13.855321) (xy -9.3805 13.855323)
-				(xy -9.3805 13.855326) (xy -9.3805 14.804674) (xy -9.365966 14.87774) (xy -9.353692 14.896109) (xy -9.332814 14.962786)
+				(xy -10.559309 7.8005) (xy -10.059309 7.8005) (xy -9.940691 7.8005) (xy -9.909309 7.8005) (xy -8.237965 7.8005)
+				(xy -8.170926 7.820185) (xy -8.150284 7.836819) (xy -7.649284 8.337819) (xy -7.615799 8.399142)
+				(xy -7.620783 8.468834) (xy -7.662655 8.524767) (xy -7.728119 8.549184) (xy -7.736965 8.5495) (xy -9.154677 8.5495)
+				(xy -9.227735 8.564032) (xy -9.227739 8.564033) (xy -9.22774 8.564034) (xy -9.310601 8.619399) (xy -9.33933 8.662396)
+				(xy -9.365966 8.70226) (xy -9.365967 8.702264) (xy -9.366618 8.705534) (xy -9.37 8.712001) (xy -9.37064 8.713544)
+				(xy -9.370778 8.713486) (xy -9.399003 8.767445) (xy -9.459718 8.802019) (xy -9.529488 8.79828) (xy -9.56372 8.77972)
+				(xy -9.582031 8.765669) (xy -9.715943 8.710202) (xy -9.715947 8.710201) (xy -9.859655 8.691281)
+				(xy -9.859657 8.691281) (xy -9.93151 8.700741) (xy -10.003365 8.710201) (xy -10.003366 8.710201)
+				(xy -10.003368 8.710202) (xy -10.137278 8.765668) (xy -10.13728 8.765669) (xy -10.137281 8.76567)
+				(xy -10.252277 8.85391) (xy -10.340517 8.968906) (xy -10.340517 8.968907) (xy -10.340518 8.968908)
+				(xy -10.353734 9.000816) (xy -10.395986 9.102822) (xy -10.414906 9.246531) (xy -10.395986 9.39024)
+				(xy -10.340517 9.524156) (xy -10.252277 9.639152) (xy -10.137281 9.727392) (xy -10.003365 9.782861)
+				(xy -9.874633 9.799809) (xy -9.859657 9.801781) (xy -9.859656 9.801781) (xy -9.859655 9.801781)
+				(xy -9.842936 9.799579) (xy -9.715947 9.782861) (xy -9.582031 9.727392) (xy -9.564918 9.714261)
+				(xy -9.499748 9.689067) (xy -9.431304 9.703106) (xy -9.381314 9.75192) (xy -9.367814 9.788446) (xy -9.365966 9.79774)
+				(xy -9.353692 9.816109) (xy -9.332814 9.882786) (xy -9.351298 9.950166) (xy -9.35368 9.953873) (xy -9.365966 9.97226)
+				(xy -9.365966 9.972261) (xy -9.365967 9.972264) (xy -9.380499 10.045321) (xy -9.3805 10.045323)
+				(xy -9.3805 10.045326) (xy -9.3805 10.994674) (xy -9.365966 11.06774) (xy -9.353692 11.086109) (xy -9.332814 11.152786)
+				(xy -9.351298 11.220166) (xy -9.35368 11.223873) (xy -9.365966 11.24226) (xy -9.365966 11.242261)
+				(xy -9.365967 11.242264) (xy -9.380499 11.315321) (xy -9.3805 11.315323) (xy -9.3805 11.315326)
+				(xy -9.3805 12.264674) (xy -9.365966 12.33774) (xy -9.353692 12.356109) (xy -9.332814 12.422786)
+				(xy -9.351298 12.490166) (xy -9.35368 12.493873) (xy -9.365966 12.51226) (xy -9.365966 12.512261)
+				(xy -9.365967 12.512264) (xy -9.380499 12.585321) (xy -9.3805 12.585323) (xy -9.3805 12.585326)
+				(xy -9.3805 13.534674) (xy -9.365966 13.60774) (xy -9.353692 13.626109) (xy -9.332814 13.692786)
+				(xy -9.351298 13.760166) (xy -9.35368 13.763873) (xy -9.365966 13.78226) (xy -9.365966 13.782261)
+				(xy -9.365967 13.782264) (xy -9.380499 13.855321) (xy -9.3805 13.855323) (xy -9.3805 13.855326)
+				(xy -9.3805 14.804674) (xy -9.365966 14.87774) (xy -9.353692 14.896109) (xy -9.332814 14.962786)
 				(xy -9.351298 15.030166) (xy -9.35368 15.033873) (xy -9.365966 15.05226) (xy -9.365966 15.052261)
 				(xy -9.365967 15.052264) (xy -9.380499 15.125321) (xy -9.3805 15.125323) (xy -9.3805 15.125326)
 				(xy -9.3805 16.074674) (xy -9.365966 16.14774) (xy -9.353692 16.166109) (xy -9.332814 16.232786)

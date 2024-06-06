@@ -6223,6 +6223,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 146.05 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a6c106b-5559-4633-a244-323fe7d4d774")
 		)
@@ -6284,6 +6293,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 44.45 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 44.45 83.82 0)
 			(effects
 				(font
@@ -6420,6 +6438,15 @@
 			)
 		)
 		(property "Description" "RF Module, ESP32-D0WD-V3 SoC, without PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"
+			(at 200.66 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 200.66 72.39 0)
 			(effects
 				(font
@@ -6742,7 +6769,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 246.38 83.82 0)
 			(effects
 				(font
@@ -6887,6 +6914,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 73.66 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "91c4e51d-6720-454c-8831-8dce11396955")
 		)
@@ -6948,6 +6984,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 138.43 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 138.43 90.17 0)
 			(effects
 				(font
@@ -7027,6 +7072,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 259.08 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "55e240ff-2d7c-444f-9bbf-c686e5ce2b17")
 		)
@@ -7061,7 +7115,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CP2102N-Axx-xQFN24"
+		(property "Value" "CP2102N-A02-GQFN24"
 			(at 94.9041 187.96 0)
 			(effects
 				(font
@@ -7089,6 +7143,24 @@
 			)
 		)
 		(property "Description" "USB to UART master bridge, QFN-24"
+			(at 92.71 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 92.71 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "634-CP2102NA02GQFN24"
 			(at 92.71 157.48 0)
 			(effects
 				(font
@@ -7299,6 +7371,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 128.27 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d91ed77-99d3-4d48-8e0c-5e0b85bd688b")
 		)
@@ -7360,6 +7441,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 73.66 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 73.66 96.52 0)
 			(effects
 				(font
@@ -7506,6 +7596,15 @@
 		)
 		(property "MPN" "611-KMR231NGLFS"
 			(at 133.35 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 133.35 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7847,6 +7946,24 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 146.05 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "710-150060VS75000"
+			(at 146.05 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "94acc141-ea9e-4494-92b0-37d6f384916a")
 		)
@@ -8047,6 +8164,24 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 115.57 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "710-150060VS75000"
+			(at 115.57 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1b0da2df-2dd7-4e6d-95b0-c9fb9eed39f9")
 		)
@@ -8117,6 +8252,15 @@
 			)
 		)
 		(property "MPN" "595-TPS562242DRLR"
+			(at 91.44 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 91.44 82.55 0)
 			(effects
 				(font
@@ -8199,6 +8343,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 176.53 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 176.53 160.02 0)
 			(effects
 				(font
@@ -8400,6 +8553,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 76.2 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35af57fe-49d4-48b9-8d41-0b8fdb77063b")
 		)
@@ -8461,6 +8623,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 138.43 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 138.43 102.87 0)
 			(effects
 				(font
@@ -8539,6 +8710,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 133.35 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3fff9001-08c6-4fdb-8490-3cb0b5f56505")
 		)
@@ -8608,6 +8788,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 78.74 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "41dcf0bf-dd05-4f98-809a-c3197f554c9a")
 		)
@@ -8640,7 +8829,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10K"
 			(at 119.38 132.588 90)
 			(effects
 				(font
@@ -8667,6 +8856,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 116.84 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 116.84 134.62 0)
 			(effects
 				(font
@@ -8810,6 +9008,24 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 121.92 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " 81-GRM31CR71A226K15L"
+			(at 121.92 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "636599d0-7347-4a63-818c-e50e47f025f3")
 		)
@@ -8944,6 +9160,24 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 34.29 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "241-SS0840WSR100001"
+			(at 34.29 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "11209cec-6918-4bb3-b54b-ddba724f7278")
 		)
@@ -8994,7 +9228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/396/wound04_e-1290968.pdf"
 			(at 113.03 80.01 0)
 			(effects
 				(font
@@ -9004,6 +9238,24 @@
 			)
 		)
 		(property "Description" "Inductor"
+			(at 113.03 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 113.03 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "963-NRH2410T2R2MN"
 			(at 113.03 80.01 0)
 			(effects
 				(font
@@ -9147,6 +9399,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 149.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cf2467ff-cfdf-415c-8478-87e12035fae3")
 		)
@@ -9217,6 +9478,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 243.84 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4f09196-6c14-4105-a286-edd8a108d43a")
 		)
@@ -9276,6 +9546,24 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 115.57 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 115.57 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "859-LTST-C190KFKT"
 			(at 115.57 172.72 0)
 			(effects
 				(font
@@ -9381,7 +9669,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 182.88 53.34 0)
 			(effects
 				(font
@@ -9488,7 +9776,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 280.67 55.88 0)
 			(effects
 				(font
@@ -9567,7 +9855,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 161.29 86.36 0)
 			(effects
 				(font
@@ -9636,6 +9924,24 @@
 		)
 		(property "Description" "Low Capacitance TVS Diode Array, 2 Channels, SOT-23-6"
 			(at 39.37 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 39.37 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "710-82400102"
+			(at 39.37 179.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9725,7 +10031,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 231.14 83.82 0)
 			(effects
 				(font
@@ -9934,6 +10240,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 250.19 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2e7bc26b-e388-4ecc-8369-a82daa484d73")
 		)
@@ -10003,7 +10318,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " 81-GRM31CR71A226K15L "
+		(property "MPN" " 81-GRM31CR71A226K15L"
+			(at 60.96 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 60.96 120.65 0)
 			(effects
 				(font
@@ -10148,6 +10472,24 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 167.64 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " 81-GRM31CR71A226K15L"
+			(at 167.64 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e2e79196-5548-49e4-9443-8fbed881fdfc")
 		)
@@ -10243,7 +10585,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 271.78 62.23 0)
 			(effects
 				(font
@@ -10387,6 +10729,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 105.41 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2cd0e838-2629-4ab8-b81c-f2befdc947ba")
 		)
@@ -10419,7 +10770,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10K"
 			(at 119.38 139.446 90)
 			(effects
 				(font
@@ -10446,6 +10797,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 116.84 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 116.84 137.16 0)
 			(effects
 				(font
@@ -10552,7 +10912,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 266.7 67.31 0)
 			(effects
 				(font
@@ -10630,6 +10990,15 @@
 			)
 		)
 		(property "MPN" " 710-629105150521 "
+			(at 24.13 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 24.13 167.64 0)
 			(effects
 				(font
@@ -10718,6 +11087,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 64.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7f11a849-157c-4ccb-95cd-a827641fc4d1")
 		)
@@ -10788,6 +11166,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 151.13 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4f2f9d41-6785-4691-b9a3-f81f6856bb93")
 		)
@@ -10850,6 +11237,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 77.47 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 77.47 120.65 0)
 			(effects
 				(font
@@ -10994,7 +11390,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 246.38 93.98 0)
 			(effects
 				(font
@@ -11082,7 +11478,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 231.14 93.98 0)
 			(effects
 				(font
@@ -11299,6 +11695,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 128.27 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "106ed341-3ddf-4041-94d3-4c3c66e3eb51")
 		)
@@ -11360,6 +11765,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 53.34 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 53.34 83.82 0)
 			(effects
 				(font
@@ -11430,6 +11844,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 182.88 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 182.88 29.21 0)
 			(effects
 				(font
@@ -11567,6 +11990,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 176.53 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 176.53 153.67 0)
 			(effects
 				(font
@@ -11742,7 +12174,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 280.67 68.58 0)
 			(effects
 				(font
@@ -11887,6 +12319,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 62.23 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f5281364-5365-4ece-9d39-0b6c93fd1e3b")
 		)
@@ -11957,7 +12398,7 @@
 				(hide yes)
 			)
 		)
-		(property "ID" ""
+		(property "ID" "s.nikoubin"
 			(at 161.29 96.52 0)
 			(effects
 				(font
@@ -12042,6 +12483,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 142.24 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4e569646-347d-4b4e-8219-0996e9c9918d")
 		)
@@ -12111,6 +12561,15 @@
 		)
 		(property "MPN" "710-742792641"
 			(at 45.72 162.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 45.72 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12311,6 +12770,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
 			(at 69.85 153.67 0)
 			(effects
 				(font
@@ -12531,6 +12999,15 @@
 				(hide yes)
 			)
 		)
+		(property "ID" "s.nikoubin"
+			(at 259.08 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c438d9e4-264d-4064-b990-604b31fba117")
 		)
@@ -12657,6 +13134,24 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 34.29 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 34.29 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "241-SS0840WSR100001"
 			(at 34.29 80.01 0)
 			(effects
 				(font
