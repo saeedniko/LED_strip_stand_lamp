@@ -4015,10 +4015,6 @@
 		(uuid "1a644c1c-b924-4ea5-bb7e-3c9cab39bdfb")
 	)
 	(no_connect
-		(at -40.64 170.18)
-		(uuid "1b67e919-c02b-4bff-af15-cac91cb7c774")
-	)
-	(no_connect
 		(at 215.9 67.31)
 		(uuid "1ed0f37f-9287-45b0-98db-8f1e3e63130f")
 	)
@@ -6794,6 +6790,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 250.19 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1af57da8-b820-49cc-8625-3e95f63507e5")
+		(property "Reference" "R3"
+			(at 247.396 39.878 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 252.73 39.878 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 250.19 43.688 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 250.19 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 250.19 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 250.19 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "91488098-7941-4e4a-9f47-d64997302b1e")
+		)
+		(pin "1"
+			(uuid "48f515f0-58f1-4e64-a0f3-a1dcebe3af9c")
+		)
+		(instances
+			(project "led_strip_stand_lamp"
+				(path "/da8f1e94-ebd4-4cfa-b01b-a11f5ce52696"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 133.35 54.61 0)
 		(unit 1)
@@ -7754,6 +7826,82 @@
 			(project "led_strip_stand_lamp"
 				(path "/da8f1e94-ebd4-4cfa-b01b-a11f5ce52696"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 142.24 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "42295a25-fcf2-4a65-ba85-ecaf604fd969")
+		(property "Reference" "R2"
+			(at 139.446 39.878 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 144.78 39.878 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 142.24 43.688 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 142.24 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ID" "s.nikoubin"
+			(at 142.24 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "14e4b51a-23a9-4c3e-be3e-757ed1312f79")
+		)
+		(pin "1"
+			(uuid "d1a2796d-b67f-4e10-8cec-f00da01b2b32")
+		)
+		(instances
+			(project "led_strip_stand_lamp"
+				(path "/da8f1e94-ebd4-4cfa-b01b-a11f5ce52696"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -10188,83 +10336,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 250.19 41.91 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "97c2f570-1b30-4a8a-8a3c-2b9495825ba0")
-		(property "Reference" "R3"
-			(at 250.19 39.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "56k"
-			(at 250.19 44.704 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 250.19 43.688 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 250.19 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 250.19 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ID" "s.nikoubin"
-			(at 250.19 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2e7bc26b-e388-4ecc-8369-a82daa484d73")
-		)
-		(pin "1"
-			(uuid "f452f46f-86a9-4772-ad74-f90b73ca8943")
-		)
-		(instances
-			(project "led_strip_stand_lamp"
-				(path "/da8f1e94-ebd4-4cfa-b01b-a11f5ce52696"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 60.96 120.65 0)
 		(unit 1)
@@ -12426,82 +12497,6 @@
 			(project "led_strip_stand_lamp"
 				(path "/da8f1e94-ebd4-4cfa-b01b-a11f5ce52696"
 					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 142.24 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e344109d-24f6-435b-a928-6311e384aef6")
-		(property "Reference" "R2"
-			(at 142.24 39.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "56k"
-			(at 142.24 44.704 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 142.24 43.688 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 142.24 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ID" "s.nikoubin"
-			(at 142.24 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4e569646-347d-4b4e-8219-0996e9c9918d")
-		)
-		(pin "1"
-			(uuid "766aca60-6512-4fbe-a104-2cac861d9f9f")
-		)
-		(instances
-			(project "led_strip_stand_lamp"
-				(path "/da8f1e94-ebd4-4cfa-b01b-a11f5ce52696"
-					(reference "R2")
 					(unit 1)
 				)
 			)
