@@ -8,6 +8,7 @@ CRGB leds[NUM_LEDS];
 // Sensor
 Adafruit_VL53L0X lox = Adafruit_VL53L0X();
 
+
 // Mode variable
 int modeNumber = 0; // 0 = OFF, 1..4 = effects
 unsigned long lastSwitchTime = 0;
