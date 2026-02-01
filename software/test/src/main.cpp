@@ -67,5 +67,4 @@ adcval = analogRead(V_SNS);
 Serial.print("ADC Value = ");
 Serial.print(adcval);
 
-  
 }
